@@ -8,7 +8,7 @@ import os
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Constants
-API_URL = "https://tplayapi.code-crafters.app/321codecrafters/fetcher.json"
+API_URL = "https://fox.toxic-gang.xyz/tata/channels"
 RETRIES = 3
 
 def fetch_api(url, retries):
